@@ -1,0 +1,8 @@
+autogen-ext[openai]
+opencv-python
+numpy
+pillow
+openai
+python-dotenv
+autogen-agentchat
+autogen
