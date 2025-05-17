@@ -1,8 +1,7 @@
-autogen-ext[openai]
+openai
 opencv-python
 numpy
 pillow
-openai
 python-dotenv
-autogen-agentchat
-autogen
+playwright
+magentic-one[all]
